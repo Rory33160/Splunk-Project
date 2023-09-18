@@ -46,9 +46,27 @@ Next, download Splunk Forwarder. Forwader is what I will be using to forward loc
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/1b656687-fd25-445f-9bff-ae543f965850)
 
+Download Splunk Universal Forwarder for Windows 64-bit
+
+Accept the user agreement of course.
+
+Where it says:  “Use this Universal Forwarder with:…………
+
+Select > On premises Splunk Cloud instance then select next
+
+
+
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/e9d4c942-844f-4a99-8a1d-af2578dd57f9)
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/b9e886bb-680f-4c0c-af7f-910092f9d895)
+
+
+Setting up Universal Forwarder. 
+
+The configuration screen ask for the local IP address and port.
+
+Ipconfig will provide the IP address and I am using port 9997 or the default port suggested
+
 
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/10b9af13-6acf-4391-8d21-38d0f791e146)
