@@ -21,9 +21,16 @@ Project consist of installing Splunk and Splunk Forwarder. Using Splunk Forwarde
 <h2>Program walk-through:</h2>
 Download and install Splunk and Splunk Forwarder for the purpose of monitoring local network traffic.
 
+
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/054b6111-c12b-4d41-940f-2faf5a70a2c2)
 
+
+Select the OS, for me - I am choosing  Windows 64 bit because I am using Windows 10
+
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/b9451835-357d-4cd4-a46b-866e2dc3c7fd)
+
+Saving Splunk 9.1.0.1 to my computer
+
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/5270d102-f1b9-4b74-9307-7e5e0335f454)
 
