@@ -68,11 +68,13 @@ Click next then finish.
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/b9e886bb-680f-4c0c-af7f-910092f9d895)
 
 
-Setting up Universal Forwarder. 
+Go back to Splunk to set up  Universal Forwarder
 
-The configuration screen ask for the local IP address and port.
+Select the pull down menu at the top right corner  and click “Add Data”
 
-Ipconfig will provide the IP address and I am using port 9997 or the default port suggested
+Error message:
+
+ “No Clients or apps are currently available on this deployment server“
 
 
 
