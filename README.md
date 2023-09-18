@@ -83,6 +83,22 @@ Error message:
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/17011192-a423-4ee8-a5e8-6c9e397e5cbc)
 
+A Little troubleshooting can not fix. 
+The immediate suspect is port access
+Fire up Powershell and tested the connection ports for Splunk and Splunk Universal Forwarder.
+
+Powershell command Splunk:
+Test-connection  -computername your IP address here port 8000
+The result for TCPTestSucceesed: True
+
+Powershell command Splunk Forwarder:
+Test-connection  -computername your IP address here port 9997
+The result for TCPTestSucceesed: False
+
+
+We can see that Splunk Forwarder is not connecting to port 9997
+
+
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/ba65eb87-d48b-4b41-a3ff-26c6657a4d23)
 
