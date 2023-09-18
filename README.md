@@ -32,11 +32,15 @@ Saving Splunk 9.1.0.1 to my computer
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/5270d102-f1b9-4b74-9307-7e5e0335f454)
 
+Create a username and password, for demontration purposes I am using Admin and sign in to make sure it works.
+
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/e9b69d37-f29d-4c21-ac39-e09d5bcc5026)
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/c3608e5f-14e2-4eae-a97a-c084fba922ea)
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/156e4d35-05ba-4912-9cf7-161a9b44d4fb)
+
+Next, download Splunk Forwarder. Forwader is what I will be using to forward local traffic to the SIEM.
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/8bbe3f25-ecaf-4a44-987e-03570849050c)
 
