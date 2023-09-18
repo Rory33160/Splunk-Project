@@ -40,12 +40,6 @@ Create a username and password, for demontration purposes I am using Admin and s
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/156e4d35-05ba-4912-9cf7-161a9b44d4fb)
 
-Next, download Splunk Forwarder. Forwader is what I will be using to forward local traffic to the SIEM.
-
-![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/8bbe3f25-ecaf-4a44-987e-03570849050c)
-
-![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/1b656687-fd25-445f-9bff-ae543f965850)
-
 Download Splunk Universal Forwarder for Windows 64-bit
 
 Accept the user agreement of course.
@@ -54,6 +48,9 @@ Where it says:  “Use this Universal Forwarder with:…………
 
 Select > On premises Splunk Cloud instance then select next
 
+![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/8bbe3f25-ecaf-4a44-987e-03570849050c)
+
+![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/1b656687-fd25-445f-9bff-ae543f965850)
 
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/e9d4c942-844f-4a99-8a1d-af2578dd57f9)
