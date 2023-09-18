@@ -115,14 +115,42 @@ Here I am checking to make sure Splunk Forwarder is listed, which we can see is 
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/c6b5d1a8-fcb0-40dc-88c2-a4f3500c8ea4)
 
+Going back to Splunk to set up  Universal Forwarder
+
+Select the pull down menu at the top right corner and click “Add Data”
+
+
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/51ee45b8-96d1-4d09-802e-d510f437a834)
+
+We can see that Splunk can see the local computer
+Select the local computer
+
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/8371cad9-0eb6-41d5-9cae-ab5c26ce7f9d)
 
+Next click Forward a the bottom right corner
+
+Next is a series of steps to set up Forwarder
+
+First select server class. Here we have “Desktop-1HA1HCC”
+
+Click next
+
+
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/492227bb-7874-4a43-a380-eb5d6c58c959)
+
+Review selection then click next
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/e8482e1f-17f9-45c5-8299-c17991910a36) 
 
+We can now confirm we have successfully added local event logs. 
+We should be able to see logs on the local computer.
+
+
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/2dd4db03-3bfd-4e59-8533-056c78a114a3)
 
+Go back to the main Splunk page to test the set up
+Type:  source=”WinEventLog:*”
+
+We can now examine the logs on the local computer.
 
