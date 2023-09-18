@@ -52,6 +52,13 @@ Select > On premises Splunk Cloud instance then select next
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/1b656687-fd25-445f-9bff-ae543f965850)
 
+Setting up Universal Forwarder. 
+
+The configuration screen ask for the local IP address and port.
+
+Ipconfig will provide the IP address and I am using port 9997 or the default port suggested
+
+
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/e9d4c942-844f-4a99-8a1d-af2578dd57f9)
 
