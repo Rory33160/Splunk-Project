@@ -102,7 +102,16 @@ We can see that Splunk Forwarder is not connecting to port 9997
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/ba65eb87-d48b-4b41-a3ff-26c6657a4d23)
 
+To access firewall hold Win + R then type  “Firewall” ( This can also be done through Powershell)
+Changed firewall settings to explicitly allow TCP access to local port 9997 .
+
+
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/8e674db9-743a-4ac9-a408-f34935458613)
+
+For Windows services
+Use Win + R then  services.msc
+Here I am checking to make sure Splunk Forwarder is listed, which we can see is listed
+
 
 ![image](https://github.com/Rory33160/Splunk-Project/assets/47018034/c6b5d1a8-fcb0-40dc-88c2-a4f3500c8ea4)
 
