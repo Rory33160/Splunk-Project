@@ -1,7 +1,5 @@
 # Splunk-Project
-Splunk Lab ingesting data into SEIM
-<h1>JWipe - Disk Sanitization</h1>
-
+Splunk Lab ingesting data into SEIM (Splunk Forwarder)
  
 
 <h2>Description</h2>
@@ -12,7 +10,7 @@ Project consist of installing Splunk and Splunk Forwarder. Using Splunk Forwarde
 <h2>Languages and Utilities Used</h2>
 
 - <b>Splunk</b> 
-- <b>Splunk Lab</b>
+- <b>Splunk Forwarder</b>
 
 <h2>Environments Used </h2>
 
